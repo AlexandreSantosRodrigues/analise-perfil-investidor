@@ -21,11 +21,9 @@ Este diretório documenta uma **etapa exploratória em Databricks SQL** sobre a 
 - Não há coluna de data individual das respostas. O período exato de coleta não foi validado neste projeto.
 - Tabela usada no ambiente de estudo: `workspace.default.finance_data_raw` (nome dependente do workspace).
 
-## Versões do projeto
+## Evolução do projeto
 
-O `README.md` continua descrevendo uma etapa anterior baseada em Excel. A documentação desta pasta descreve a **etapa posterior em Databricks SQL**, construída a partir das consultas do notebook fornecido. Esses contextos não devem ser confundidos.
-
-**Importante:** o `README.md` não foi modificado para criar esta documentação. Os arquivos Excel mencionados nele não estavam presentes na raiz quando esta documentação foi elaborada.
+O [README principal](../README.md) apresenta a **etapa atual em Databricks SQL**, construída a partir das consultas do notebook fornecido. A análise anterior em Excel permanece como contexto histórico, com um relatório PDF na raiz; não há planilha Excel versionada neste repositório.
 
 ## Reprodutibilidade
 
